@@ -40,7 +40,7 @@ public class InverseAdapter extends Adapter<InverseAdapterViewHolder> {
             .inflate(R.layout.inverse_list_item, parent, false);
 
         if (viewType == ODD_TYPE)
-            view.setBackgroundColor(Color.rgb(0xf8, 0xf8, 0xf8));
+            view.setBackgroundColor(Color.rgb(0xee, 0xee, 0xee));
 
         return new InverseAdapterViewHolder(view);
     }
