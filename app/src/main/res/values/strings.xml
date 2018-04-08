@@ -1,3 +1,9 @@
 <resources>
   <string name="app_name">Applied CS</string>
+  <string name="mod">Enter n :</string>
+  <string name="calculate">Calculate</string>
+  <string name="n">n</string>
+  <string name="a">a</string>
+  <string name="inverse">Find multiplicative and additive inverse of all numbers less than n.</string>
+  <string name="_251">251</string>
 </resources>
